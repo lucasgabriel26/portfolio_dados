@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <!-- GitHub -->
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  <!-- Vercel -->
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 Bem-vindo ao meu cantinho na web onde eu provo que realmente sei trabalhar com dados  
@@ -34,7 +32,6 @@ mas que divertem e funcionam. 😅
 
 - **Python 3.10+**
 - **Streamlit**
-- **Vercel** (deploy)
 - **GitHub** (controle de versão)
 
 ---

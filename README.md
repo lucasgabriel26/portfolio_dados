@@ -24,7 +24,7 @@ mas que divertem e funcionam. 😅
 
 ## 🌐 Acesse o portfólio online
 
-🔗 Deploy: *Em breve… me dá só um café e uns cliques na Vercel ☕⚙️*
+🔗 Deploy: [*Acesse meu portfólio*](https://portfoliodados-lucasgpin.streamlit.app/)
 
 ---
 

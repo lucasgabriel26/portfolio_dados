@@ -37,7 +37,7 @@ mas que divertem e funcionam. 😅
 ---
 
 📞 Vamos conversar?
-💼 LinkedIn: https://linkedin.com/in/lucasgabriel26
+💼 LinkedIn: https://www.linkedin.com/in/lucasgpin/
 ✉️ E-mail: lucasgabriel.lg626@gmail.com
 
 Obrigado por visitar meu portfólio! E cuidado: olhar gráficos por muito tempo pode causar vontade de fazer mais gráficos. 📈😂
